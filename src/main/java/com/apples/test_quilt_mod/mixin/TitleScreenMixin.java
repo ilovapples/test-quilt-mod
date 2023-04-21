@@ -1,4 +1,4 @@
-package com.example.example_mod.mixin;
+package com.apples.test_quilt_mod.mixin;
 
 import net.minecraft.client.gui.screen.TitleScreen;
 import com.example.example_mod.ExampleMod;
