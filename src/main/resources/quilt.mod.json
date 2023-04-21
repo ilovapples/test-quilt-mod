@@ -5,7 +5,7 @@
 		"id": "example_mod",
 		"version": "${version}",
 		"metadata": {
-			"name": "Mod Name",
+			"name": "Test Quilt Mod",
 			"description": "A short description of your mod.",
 			"contributors": {
 				"Your name here": "Owner"
